@@ -1,6 +1,6 @@
 {
   "name": "relay-hook-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Router compatible with the Relay v11 hook API, copied from https://github.com/relayjs/relay-examples and published as a package",
   "main": "dist/main.js",
   "scripts": {
